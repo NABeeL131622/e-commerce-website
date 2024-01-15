@@ -1,0 +1,292 @@
+.BackgrounImage{
+    background-image: url("./assets/images/BackGroundImage/Untitled.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+}
+
+.BackgroundBlack{
+    background-color: black;
+}
+
+
+.PaddingLeftRight50px50px{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.gap20px{
+    gap: 20px;
+}
+
+.gap40px{
+    gap: 40px;
+}
+
+#NavBarStyleId{
+    background-color:black;
+}
+
+#tagline{
+    text-align: center;
+    margin-bottom: 50px;
+    color: white;
+    margin-top: 50px;
+}
+
+#shopnow-btn{
+    display: block;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 5px 10px;
+    border: 2px solid white;
+    transition: 0.5s;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+}
+
+#shopnow-btn:hover{
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: black;
+    color: white;
+    transition: 0.5s;
+    border: 2px solid white;
+}
+
+#Featured-Products{
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+}
+
+.rounded{
+    height: 400px;
+    width: 300px;
+}
+
+.ImageSizeReArrange{
+    height: 500px;
+    width: 500px;
+}
+
+#ImageStyling1{
+    height: 400px;
+    width: 300px;
+    padding: 20px 20px;
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+    transition: 0.5s;
+    border-radius: 20px;
+}
+
+#ImageStyling1:hover{
+    padding: 0;
+    transition: 0.5s;
+    border-bottom: 2px solid white;
+    border-right:  2px solid white; 
+    border-left: none;
+    border-top: none;  
+    background-image: url("./assets/images/RealMadridBackground/Untitled\ \(2\).png");
+    background-size: cover;
+    background-color: hotwhite;
+    
+}
+
+#ImageStyling2{
+    height: 400px;
+    width: 300px;
+    padding: 20px 20px;
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+    transition: 0.5s;
+    border-radius: 20px;
+}
+
+#ImageStyling2:hover{
+    padding: 0;
+    transition: 0.5s;
+    border-bottom: 2px solid white;
+    border-right:  2px solid white; 
+    border-left: none;
+    border-top: none;  
+    background-image: url("./assets/images/BarcelonaBackgroundImage/Untitled\ \(1\).png");
+    background-size: cover;
+    background-color: hotwhite;
+    
+}
+
+#ImageStyling3{
+    height: 400px;
+    width: 300px;
+    padding: 20px 20px;
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+    transition: 0.5s;
+    border-radius: 20px;
+}
+
+#ImageStyling3:hover{
+    padding: 0;
+    transition: 0.5s;
+    border-bottom: 2px solid white;
+    border-right:  2px solid white; 
+    border-left: none;
+    border-top: none;  
+    background-image: url("./assets/images/BayernMunichBackground/Untitled\ \(3\).png");
+    background-size: cover;
+    background-color: hotwhite;
+    
+}
+
+.ImageStyling1Id{
+    height: 100%;
+    width: 100%;
+}
+
+#icon{
+    height: 50px;
+    width: 50px;
+}
+
+.card1{
+    height: fit-content;
+    width: fit-content;
+}
+
+.star{
+    height: 100px;
+    width: 120px;
+}
+
+.jersey1{
+    height: 100px;
+    width: 100px;
+}
+
+#background_img{
+    background-image: url("./assets/images/Men\'s\ Authentic\ adidas\ Real\ Madrid\ Home\ Jersey\ 23_24\ \ -\ \ UCL\ -.jpeg");
+    background-size:cover;
+}
+
+#centering{
+    text-align: center;
+}
+
+
+.transparent{
+    background-color:black;
+}
+
+.white{
+    color: white;
+}
+
+.transparent{
+    background-color: transparent;
+}
+
+.size{
+    height: 200px;
+    width: 200px;
+}
+
+.user{
+    height: 100px;
+    width: 100px;
+}
+
+.ImageSizing2{
+    height: 300px;
+    width: 300px;
+}
+
+.ImageSizingStyling{
+    display: block;
+    margin: auto;
+}
+
+#ImageSizingStylingLarge{
+    display: flex;
+    align-items: center;
+}
+
+#ImageSizingStylingLargeImage{
+    height: 500px;
+    width: 500px;
+}
+
+.rounded2:hover{
+    background-color: rgb(134, 134, 134);
+}
+
+#psgHovering:hover{
+    background-image: url("./assets/images/clubLogo/PSG\ Wallpaper\ -\ iXpap.jpeg");
+    background-size: cover;
+}
+
+#psgHoveringInside:hover{
+    opacity: 0.5;
+}
+
+#arsenalHovering:hover{
+    background-image: url("./assets/images/clubLogo/Pin\ on\ Gambar\ anime.jpeg");
+    background-size: cover;
+}
+
+#arsenalHoveringInside:hover{
+    opacity: 0.5;
+}
+
+#chelseaHovering:hover{
+    background-image: url("./assets/images/clubLogo/Chelsea\ FC\ Women\ on\ X.jpeg");
+    background-size: cover;
+}
+
+#aboutShourShopCentering{
+    text-align: center;
+}
+
+#paraCentering{
+    text-align: center;
+}
+
+#listItemHorizontally ul{
+    list-style: none;
+}
+
+#listItemHorizontally li{
+    display: inline;
+}
+
+.borderRemoval{
+    border-style: none !important;
+
+}
+
+.noBorderRemoval{
+    border-style:solid ;
+}
+
+.marginLeftGap{
+    margin-left: 70px;
+}
+
+.imageSize{
+    height: 50px;
+    width: 50px;
+}
+
+.imageSizeInCorousel{
+    height: 400px;
+    width: 300px !important;
+}
+
+.BackgroundTransparent{
+    background:transparent !important;
+    background-color: transparent !important;
+}
